@@ -1,5 +1,9 @@
 //clone the repo in local folder
+
+
 git clone repo_url
+
+
 //inside main_folder_path where it is clone move to client and server using cd command
 
 //frontend
